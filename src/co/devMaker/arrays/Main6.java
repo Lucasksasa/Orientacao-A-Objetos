@@ -9,7 +9,7 @@ public class Main6 {
 
     public static void main (String[] args){
 
-        //Com o ArrayList, nao precisamos especificar o tamanho no início
+        //Com o ArrayList , não precisamos especificar o tamanho no início
         List<User> users = new ArrayList<>();
 
         int i = 0;
